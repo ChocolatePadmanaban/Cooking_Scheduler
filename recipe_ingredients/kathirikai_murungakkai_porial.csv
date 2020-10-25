@@ -1,12 +1,12 @@
-name," kathirikai murungakkai porial",
-question," 6 "," How many people are gonna eat ? [Default 6 people]"
-brinjal," .75 "," kgs"
-drumstick," 2"," units"
+name,"kathirikai murungakkai porial",
+question," 6 ",How many people are gonna eat ? [Default 6 people]"
+brinjal," .75 ",kgs
+drumstick," 2","units"
 onion," 4",units
 tomato," 4 ",units
-"oil "," 4 "," teaspoons"
-curry leaves," 3"," branches"
-"salt "," 6",teaspoons
+"oil"," 4 ","teaspoons"
+curry leaves,"3","branches"
+"salt","6",teaspoons
 chilli powder," 4 ",teaspoons
-"tamarind powder "," 1 ",teaspoons
-"mustard "," 1 ",teaspoons
+"tamarind powder"," 1 ",teaspoons
+"mustard"," 1 ",teaspoons
