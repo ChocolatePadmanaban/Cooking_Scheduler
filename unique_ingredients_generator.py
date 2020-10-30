@@ -14,6 +14,7 @@ for ingredient_file in ingredient_files:
                     ingredient_dict[row[0]]=row[2]
             else:
                 ingredient_dict[row[0]]=row[2]
+    i_file.close()
 
 row_format ="{:<20}" *2
 for key in sorted(ingredient_dict):
